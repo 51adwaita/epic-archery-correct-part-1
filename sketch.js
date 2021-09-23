@@ -8,7 +8,6 @@ var canvas;
 var palyer, playerBase;
 var computer, computerBase;
 
-var arrow;
 
 
 function setup() {
